@@ -1,0 +1,1 @@
+Given a video recognizes the action being performed using Deep Learning.
